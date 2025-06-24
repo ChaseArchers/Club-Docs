@@ -6,7 +6,8 @@
   - Managing the committee, including co-opting members if needed
   - Organising Committe meetings, AGMs, EGMs, etc.
   - Deciding votes
-  - Issues container keys to roles that require them and other trustworthy members as needed
+  - Issues container keys to roles that require them and other trustworthy members
+  as needed
   - Hold school keycard whenever not transferred to nominated line captain as needed
   - Final sign off on all club documentation
   - Needs DBS Check
@@ -61,6 +62,9 @@
   - Maintain club records
   - Administer achievement programs
   - Needs DBS check
+- Senior (50+) Club Representative
+  - To represent the interests of 50+ club members to the committe
+  - Internal point of contact
 - Senior Club Representative
   - To represent the interests of senior club members to the committe
   - Internal point of contact
@@ -107,4 +111,5 @@ at any time.
   - Records Officer
   - Quatermaster
 
-Other project committes at the discretion of the Key Positions (Chair, Secretary, Treasurer)
+Other project committes at the discretion of the Key Positions (Chair, Secretary,
+Treasurer)
