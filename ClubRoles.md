@@ -1,6 +1,8 @@
-# Committe Roles
+# Club Roles
 
-## Key Positions
+## Committee Roles
+
+### Key Positions
 
 - Chair
   - Managing the committee, including co-opting members if needed
@@ -25,7 +27,7 @@
   - Ensuring that membership fees are received before anyone can shoot
   - Needs DBS Check
 
-## Other Roles
+### Other Roles
 
 - Membership Secretary
   - Ensure that all club members have up to date AGB membership
@@ -83,7 +85,7 @@
   - Provide instruction to members on how to maintain their own equipment
   - Maintain club inventory
 
-## Subcommittees
+### Subcommittees
 
 All subcommittees report to the Chair, Chair may sit in on any subcommittee business
 at any time.
@@ -113,3 +115,16 @@ at any time.
 
 Other project committes at the discretion of the Key Positions (Chair, Secretary,
 Treasurer)
+
+## Non-Committe Roles
+
+- Session Line Captain
+  - Appointed by the Senior Line Captain with approval of the Safety Subcommittee.
+  - Responsible for running the shooting line during sessions for which they are
+  presiding
+  - Responsible for opening & locking the container at sessions over which they
+  are presiding
+  - Responsible for giving safety briefing and ensuring safety rules are followed
+  at sessions over which they are presiding
+  - Committee members are not automatically included as Session Line Captains
+  - Immediate point of contact for lost arrows, welfare, accidents, etc.
